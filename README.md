@@ -8,4 +8,4 @@
 # Project Showcase
 | Tên | Giới thiệu | Link |
 |------|------|-----------|
-| NHLBot | Create a bot NHLBOT | Top.gg: https://top.gg/bot/848053364298088458 Homepage: https://nhlbot.000webhostapp.com |
+| NHLBot | Create a bot NHLBOT | Homepage: https://nhlbot.000webhostapp.com |

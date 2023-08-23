@@ -2,7 +2,7 @@
 
 ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nhl08&theme=tokyonight&layout=compact)
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nhl08&theme=onedark)](https://github.com/nhl08/github-profile-trophy) -->
 
 
 # Project Showcase

@@ -1,4 +1,3 @@
-![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nhl08&theme=tokyonight&layout=compact)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyễn Hoàng Lâm
 ========================================================================================================================================
 

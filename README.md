@@ -5,8 +5,8 @@ Web Developer and Designer
 --------------------------
 
 * ✉️  You can contact me at [nguyenhoanglam508@gmail.com](mailto:nguyenhoanglam508@gmail.com)
-<br> <br>
 ![Profile View](https://komarev.com/ghpvc/?username=nhl08&style=flat-square)
+<br> <br>
 <a href="https://www.github.com/nhl08" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nhl08?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
